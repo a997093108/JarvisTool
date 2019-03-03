@@ -1,0 +1,16 @@
+D:\Development Document\c#\RescueJarvisTool\AssetNorm\bin\Debug\AssetNorm.exe.config
+D:\Development Document\c#\RescueJarvisTool\AssetNorm\bin\Debug\AssetNorm.exe
+D:\Development Document\c#\RescueJarvisTool\AssetNorm\bin\Debug\AssetNorm.pdb
+D:\Development Document\c#\RescueJarvisTool\AssetNorm\obj\Debug\AssetNorm.Form1.resources
+D:\Development Document\c#\RescueJarvisTool\AssetNorm\obj\Debug\AssetNorm.Properties.Resources.resources
+D:\Development Document\c#\RescueJarvisTool\AssetNorm\obj\Debug\AssetNorm.csproj.GenerateResource.cache
+D:\Development Document\c#\RescueJarvisTool\AssetNorm\obj\Debug\AssetNorm.csproj.CoreCompileInputs.cache
+D:\Development Document\c#\RescueJarvisTool\AssetNorm\obj\Debug\AssetNorm.exe
+D:\Development Document\c#\RescueJarvisTool\AssetNorm\obj\Debug\AssetNorm.pdb
+D:\Development Document\c#\RescueJarvisTool\AssetNorm\obj\Debug\AssetNorm.FillData.resources
+D:\Development Document\c#\RescueJarvisTool\AssetNorm\bin\Debug\AssetNorm.exe.manifest
+D:\Development Document\c#\RescueJarvisTool\AssetNorm\bin\Debug\AssetNorm.application
+D:\Development Document\c#\RescueJarvisTool\AssetNorm\obj\Debug\AssetNorm.TrustInfo.xml
+D:\Development Document\c#\RescueJarvisTool\AssetNorm\obj\Debug\AssetNorm.exe.manifest
+D:\Development Document\c#\RescueJarvisTool\AssetNorm\obj\Debug\AssetNorm.application
+D:\Development Document\c#\RescueJarvisTool\AssetNorm\obj\Debug\AssetNorm.Resource1.resources
